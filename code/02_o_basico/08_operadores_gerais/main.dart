@@ -1,5 +1,4 @@
 void main() {
-
   // cascade
   // Avoid this implementation
   final frase = StringBuffer();
